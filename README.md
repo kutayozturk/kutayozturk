@@ -14,3 +14,9 @@ You can click the Preview link to take a look at your changes.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kutayozturk&repo=github-readme-stats)](https://github.com/kutayozturk/github-readme-stats)
 --->
+<h3>Eğitimler</h3>
+
+<ul>
+      <li><a href="https://github.com/kutayozturk/cpp-temel-egitim">C++ Temel Eğitimi</a></li>
+      
+</ul>
