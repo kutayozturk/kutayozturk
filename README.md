@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 
 <ul>
       <li><a href="https://github.com/kutayozturk/cpp-temel-egitim">C++ Temel Eğitimi</a></li>
-      <li><a href="https://github.com/kutayozturk/Python-Notlari">Python Notlarım</a></li>
+      <li><a href="https://github.com/kutayozturk/Python-Notlarim">Python Notlarım</a></li>
       
       
       
