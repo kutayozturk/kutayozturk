@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kutayozturk&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>Eğitimler</h3>
+<h3>Eğitim ve İçerikler</h3>
 
 <ul>
       <li><a href="https://github.com/kutayozturk/cpp-temel-egitim">C++ Temel Eğitimi</a></li>
