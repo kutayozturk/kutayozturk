@@ -4,7 +4,7 @@
 - 💞️ O zaman hadi başlayalım ...
 - 📫 Bir sorun mu var? Bana ulaş...
 - 🌐 https://www.youtube.com/@kutayozturkdsc
-
+<a href="https://www.youtube.com/@kutayozturkdsc" target="_blank">
 <!---
 kutayozturk/kutayozturk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
