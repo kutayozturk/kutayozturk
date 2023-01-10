@@ -3,8 +3,9 @@
 - 🌱 Burada bir çok kaynak ve öğretici döküman ile karşılacaksın ...
 - 💞️ O zaman hadi başlayalım ...
 - 📫 Bir sorun mu var? Bana ulaş...
-- 🌐 https://www.youtube.com/@kutayozturkdsc
-<a href="https://www.youtube.com/@kutayozturkdsc" target="_blank">
+- 🌐 Web site: https://www.kutayozturk.com
+- 🌐 Youtube: https://www.youtube.com/@kutayozturkdsc
+
 <!---
 kutayozturk/kutayozturk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
