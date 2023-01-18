@@ -2,9 +2,11 @@
 - 👀 Programlama Dilleri Eğitimleri veriyorum ..
 - 🌱 Burada bir çok kaynak ve öğretici döküman ile karşılacaksın ...
 - 💞️ O zaman hadi başlayalım ...
-- 📫 Bir sorun mu var? Bana ulaş...
+- 📧 Bir sorun mu var? [Bana ulaş...](mailto:destek.pckenti@gmail.com)
 - 🌐 Web site: https://www.kutayozturk.com
-- 🌐 Youtube: https://www.youtube.com/@kutayozturkdsc
+- ▶️ Youtube: https://www.youtube.com/@kutayozturkdsc ❗Abone olmayı unutmayın 
+      
+
 
 <!---
 kutayozturk/kutayozturk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,6 +23,8 @@ You can click the Preview link to take a look at your changes.
 
 <h3>Eğitim İçerikleri</h3>
 
+> Bu kısımda birçok farklı konuda eğitim içeriğine erişebilirsiniz.
+
 <ul>
       <li><a href="https://github.com/kutayozturk/cpp-temel-egitim">C++ Temel Eğitimi</a></li>
       <li><a href="https://github.com/kutayozturk/cpp-den-C-diline-gecis">C++'dan C'ye Geçiş</a></li>
@@ -30,6 +34,8 @@ You can click the Preview link to take a look at your changes.
 
 <h3>Hazır Kodlar</h3>
 
+> Bu kısımda birçok farklı dilde yazılmış hazır kodlara ve örnek çalışmalara yer verilmiştir.
+
 <ul>
       <li><a href="https://github.com/kutayozturk/cpp-hazir-kodlar">C++ Hazır Kodlar</a></li>
       <li><a href="https://github.com/kutayozturk/Cpp-Basit-Konsol-Oyunlari">C++ Basit Konsol Oyunları</a></li>
@@ -37,6 +43,8 @@ You can click the Preview link to take a look at your changes.
 </ul>
 
 <h3>Öneriler</h3>
+
+> Bu kısımda birbinden farklı alanlarda kullanışlı web siteleri ve uygulamaları bulabilirsiniz.
 
 <ul>      
       <li><a href="https://github.com/kutayozturk/web-sistesi-onerileri">Kullanışlı Web Siteleri</a></li>
