@@ -30,6 +30,8 @@ You can click the Preview link to take a look at your changes.
       <li><a href="https://github.com/kutayozturk/cpp-den-C-diline-gecis">C++'dan C'ye Geçiş</a></li>
       <li><a href="https://github.com/kutayozturk/Python-Notlarim">Python Notlarım</a></li>
       <li><a href="https://github.com/kutayozturk/kali-linux-egitimi">Kali Linux Eğitimi</a></li>
+      <li><a href="https://github.com/kutayozturk/Hypercasual-Nedir">Kali Linux Eğitimi</a></li>
+      
 </ul>
 
 <h3>Hazır Kodlar</h3>
