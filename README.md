@@ -63,8 +63,6 @@ You can click the Preview link to take a look at your changes.
       <li><a href="https://www.ultimatepp.org/">U++ / C++ Framework</a></li>
       <li><a href="https://www.sfml-dev.org/">SFML - C++ Kütüphanesi</a></li>
       <li><a href="https://www.30secondsofcode.org/">30 Second of Code</a></li>
-      
-      https://www.30secondsofcode.org/
-      
+            
       
 </ul>
