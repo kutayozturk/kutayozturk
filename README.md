@@ -23,6 +23,7 @@ You can click the Preview link to take a look at your changes.
 
 |🌐 [Web site](https://www.kutayozturk.com)|![image](https://user-images.githubusercontent.com/94574681/216350501-9a184c89-b095-4d26-bddc-deb59ffa4af5.png) [Youtube](https://www.youtube.com/@kutayozturkdsc)| 📧 [Contact](mailto:destek.pckenti@gmail.com)|
 |-|-|-|
+---
 <h3>Eğitim İçerikleri</h3>
 
 > Bu kısımda birçok farklı konuda eğitim içeriğine erişebilirsiniz.
