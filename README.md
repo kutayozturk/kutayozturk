@@ -54,10 +54,10 @@ You can click the Preview link to take a look at your changes.
 > Bu kısımda birbinden farklı alanlarda kullanışlı web siteleri ve uygulamaları bulabilirsiniz.
 
 <ul>      
-      <li><a href="https://github.com/kutayozturk/web-sistesi-onerileri"> Kullanışlı Web Siteleri</a></li>
-      <li><a href="https://github.com/kutayozturk/Program-Onerileri"> Kullanışlı Program Önerileri</a></li>
-      <li><a href="https://www.ultimatepp.org/"> U++ / C++ Framework</a></li>
-      <li><a href="https://www.sfml-dev.org/"> SFML - C++ Grafik Kütüphanesi - C++ ile Oyun Programlama</a></li>
+      <li><a href="https://github.com/kutayozturk/web-sistesi-onerileri">Kullanışlı Web Siteleri</a></li>
+      <li><a href="https://github.com/kutayozturk/Program-Onerileri">Kullanışlı Program Önerileri</a></li>
+      <li><a href="https://www.ultimatepp.org/">U++ / C++ Framework</a></li>
+      <li><a href="https://www.sfml-dev.org/">SFML - C++ Kütüphanesi</a></li>
       
       
 </ul>
