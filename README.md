@@ -31,7 +31,10 @@ You can click the Preview link to take a look at your changes.
 <ul>
       <li><a href="https://github.com/kutayozturk/cpp-temel-egitim">C++ Temel Eğitimi</a></li>
       <li><a href="https://github.com/kutayozturk/Cpp-OOP-Temelleri">C++ OOP Temelleri</a></li> 
-      <li><a href="https://github.com/kutayozturk/cpp-opp-egitimi">C++ Proje ile 0'dan OOP Eğitimi</a></li>   
+      <li><a href="https://github.com/kutayozturk/cpp-opp-egitimi">C++ Proje ile 0'dan OOP Eğitimi</a></li> 
+      <li><a href="https://github.com/kutayozturk/cpp-puf-noktalari">C++ Püf Noktaları</a></li> 
+      
+      
       <li><a href="https://github.com/kutayozturk/cpp-den-C-diline-gecis">C++'dan C'ye Geçiş</a></li>
       <li><a href="https://github.com/kutayozturk/Python-Notlarim">Python Notlarım</a></li>
       <li><a href="https://github.com/kutayozturk/clean-code">Clean Code - Temiz Kod</a></li>
