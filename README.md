@@ -47,7 +47,7 @@ You can click the Preview link to take a look at your changes.
 <ul>
       <li><a href="https://github.com/kutayozturk/cpp-hazir-kodlar">C++ Hazır Kodlar</a></li>
       <li><a href="https://github.com/kutayozturk/cpp-Hazir-Fonksiyonlar">C++ Hazır Fonksiyonlar</a></li>    
-      <li><a href="https://github.com/kutayozturk/cpp-whitespace">C++ WhiteSpace | Etksiz Boşluk Karakterleri</a></li>    
+      <li><a href="https://github.com/kutayozturk/cpp-whitespace">C++ WhiteSpace | Etkisiz Boşluk Karakterleri</a></li>    
       <li><a href="https://github.com/kutayozturk/Cpp-Basit-Konsol-Oyunlari">C++ Basit Konsol Oyunları</a></li>
       
 </ul>
