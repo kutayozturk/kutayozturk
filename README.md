@@ -32,8 +32,6 @@ You can click the Preview link to take a look at your changes.
       <li><a href="https://github.com/kutayozturk/cpp-temel-egitim">C++ Temel Eğitimi</a></li>
       <li><a href="https://github.com/kutayozturk/Cpp-OOP-Temelleri">C++ OOP Temelleri</a></li> 
       <li><a href="https://github.com/kutayozturk/cpp-opp-egitimi">C++ Proje ile 0'dan OOP Eğitimi</a></li> 
-      <li><a href="https://github.com/kutayozturk/cpp-puf-noktalari">C++ Püf Noktaları</a></li> 
-      <li><a href="https://github.com/kutayozturk/Csharp-puf-noktalari">C# Püf Noktaları</a></li> 
       <li><a href="https://github.com/kutayozturk/cpp-den-C-diline-gecis">C++'dan C'ye Geçiş</a></li>
       <li><a href="https://github.com/kutayozturk/Python-Notlarim">Python Notlarım</a></li>
       <li><a href="https://github.com/kutayozturk/clean-code">Clean Code - Temiz Kod</a></li>
@@ -51,6 +49,18 @@ You can click the Preview link to take a look at your changes.
       <li><a href="https://github.com/kutayozturk/cpp-Hazir-Fonksiyonlar">C++ Hazır Fonksiyonlar</a></li>    
       <li><a href="https://github.com/kutayozturk/cpp-whitespace">C++ WhiteSpace | Etksiz Boşluk Karakterleri</a></li>    
       <li><a href="https://github.com/kutayozturk/Cpp-Basit-Konsol-Oyunlari">C++ Basit Konsol Oyunları</a></li>
+      
+</ul>
+
+<h3>Püf Noktalar / İpuçları</h3>
+
+> Bu kısımda az bilinen bilgilere ve püf noktalara yer verilmiştir.
+
+<ul>
+      <li><a href="https://github.com/kutayozturk/cpp-puf-noktalari">C++ Püf Noktaları</a></li> 
+      <li><a href="https://github.com/kutayozturk/Csharp-puf-noktalari">C# Püf Noktaları</a></li> 
+      <li><a href="https://github.com/kutayozturk/unity-puf-noktalari">Unity Püf Noktaları</a></li> 
+      
       
 </ul>
 
