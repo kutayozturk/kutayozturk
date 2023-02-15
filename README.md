@@ -8,18 +8,17 @@
       
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kutayozturk&layout=compact)](https://github.com/kutayozturk/github-readme-stats)
 <!---
 kutayozturk/kutayozturk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kutayozturk)](https://github.com/kutayozturk/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kutayozturk&layout=compact)](https://github.com/kutayozturk/github-readme-stats)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kutayozturk&repo=github-readme-stats)](https://github.com/kutayozturk/github-readme-stats)
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kutayozturk&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 --->
 |🌐 [Web site](https://www.kutayozturk.com)|![image](https://user-images.githubusercontent.com/94574681/216350501-9a184c89-b095-4d26-bddc-deb59ffa4af5.png) [Youtube](https://www.youtube.com/@kutayozturkdsc)| 📧 [Contact](mailto:destek.pckenti@gmail.com)|
 |-|-|-|
