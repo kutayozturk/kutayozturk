@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 ---
 <h3>Eğitim İçerikleri</h3>
 
-> C/C++ Eğitimi.
+> C/C++ Eğitimi
 
 <ul>
       <li><a href="https://github.com/kutayozturk/cpp-temel-egitim">C++ Temel Eğitimi</a></li>
@@ -87,9 +87,5 @@ You can click the Preview link to take a look at your changes.
       <li><a href="https://www.sfml-dev.org/">SFML - C++ Kütüphanesi</a></li>
       <li><a href="https://www.30secondsofcode.org/">30 Second of Code</a></li>
       <li><a href="https://github.com/kutayozturk/Visual-Studio-Code-Eklentileri">VSC Eklentileri</a></li>
-      
-      
-      
-            
-      
+
 </ul>
