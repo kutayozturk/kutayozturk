@@ -26,18 +26,30 @@ You can click the Preview link to take a look at your changes.
 ---
 <h3>Eğitim İçerikleri</h3>
 
-> Bu kısımda birçok farklı konuda eğitim içeriğine erişebilirsiniz.
+> C/C++ Eğitimi.
 
 <ul>
       <li><a href="https://github.com/kutayozturk/cpp-temel-egitim">C++ Temel Eğitimi</a></li>
       <li><a href="https://github.com/kutayozturk/Cpp-OOP-Temelleri">C++ OOP Temelleri</a></li> 
       <li><a href="https://github.com/kutayozturk/cpp-opp-egitimi">C++ Proje ile 0'dan OOP Eğitimi</a></li> 
       <li><a href="https://github.com/kutayozturk/cpp-den-C-diline-gecis">C++'dan C'ye Geçiş</a></li>
+     
+      
+</ul>
+
+> C# Eğitimi
+
+<ul>
+      <li><a href="https://github.com/kutayozturk/csharp-temel-egitim">C# Eğitimi</a></li>
+</ul>
+
+> Diğer Eğitimler
+
+<ul>
       <li><a href="https://github.com/kutayozturk/Python-Notlarim">Python Notlarım</a></li>
       <li><a href="https://github.com/kutayozturk/clean-code">Clean Code - Temiz Kod</a></li>
       <li><a href="https://github.com/kutayozturk/Hypercasual-Nedir">Hypercasual Nedir?</a></li>
       <li><a href="https://github.com/kutayozturk/kali-linux-egitimi">Kali Linux Eğitimi</a></li>
-      
 </ul>
 
 <h3>Hazır Kodlar</h3>
