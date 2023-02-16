@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 |🌐 [Web site](https://www.kutayozturk.com)|![image](https://user-images.githubusercontent.com/94574681/216350501-9a184c89-b095-4d26-bddc-deb59ffa4af5.png) [Youtube](https://www.youtube.com/@kutayozturkdsc)| 📧 [Contact](mailto:destek.pckenti@gmail.com)|
 |-|-|-|
 ---
-<h3>Eğitim İçerikleri</h3>
+### Eğitim İçerikleri
 
 > C/C++ Eğitimi
 
@@ -51,7 +51,7 @@ You can click the Preview link to take a look at your changes.
       <li><a href="https://github.com/kutayozturk/kali-linux-egitimi">Kali Linux Eğitimi</a></li>
 </ul>
 
-<h3>Hazır Kodlar</h3>
+### Hazır Kodlar
 
 > Bu kısımda birçok farklı dilde yazılmış hazır kodlara ve örnek çalışmalara yer verilmiştir.
 
@@ -63,7 +63,7 @@ You can click the Preview link to take a look at your changes.
       
 </ul>
 
-<h3>Püf Noktalar / İpuçları</h3>
+### Püf Noktalar / İpuçları
 
 > Bu kısımda az bilinen bilgilere ve püf noktalara yer verilmiştir.
 
@@ -75,7 +75,7 @@ You can click the Preview link to take a look at your changes.
       
 </ul>
 
-<h3>Öneriler</h3>
+### Öneriler
 
 > Bu kısımda birbinden farklı alanlarda kullanışlı web siteleri ve uygulamaları bulabilirsiniz.
 
