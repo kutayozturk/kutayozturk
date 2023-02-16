@@ -2,7 +2,7 @@
 - 👀 Programlama Dilleri Eğitimleri veriyorum ..
 - 🌱 Burada bir çok kaynak ve öğretici döküman ile karşılacaksın ...
 - 💞️ O zaman hadi başlayalım ...
-- 📧 Bir sorun mu var? [Bana ulaş...](mailto:destek.pckenti@gmail.com)
+- 📧 Bir sorun mu var? [Bana ulaş...](mailto:kutayozturk@mail.com)
 - 🌐 Web site: https://www.kutayozturk.com
 - ▶️ Youtube: https://www.youtube.com/@kutayozturkdsc ❗Abone olmayı unutmayın 
       
