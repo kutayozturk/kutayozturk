@@ -85,6 +85,7 @@ You can click the Preview link to take a look at your changes.
       <li><a href="https://www.ultimatepp.org/">U++ / C++ Framework</a></li>
       <li><a href="https://www.sfml-dev.org/">SFML - C++ Kütüphanesi</a></li>
       <li><a href="https://www.30secondsofcode.org/">30 Second of Code</a></li>
-      <li><a href="https://github.com/kutayozturk/Visual-Studio-Code-Eklentileri">VSC Eklentileri</a></li>
+      <li><a href="https://github.com/kutayozturk/Visual-Studio-Code-Eklentileri">Visula Studio Code Eklentileri</a></li>
+      <li><a href="https://github.com/kutayozturk/Visual-Studio-Eklentileri">Visula Studio 2022 Eklentileri</a></li>
 
 </ul>
