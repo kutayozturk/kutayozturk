@@ -45,6 +45,7 @@ You can click the Preview link to take a look at your changes.
 > Diğer Eğitimler
 
 <ul>
+      <li><a href="https://github.com/kutayozturk/html-notlarim">HTML Notlarım</a></li>      
       <li><a href="https://github.com/kutayozturk/Python-Notlarim">Python Notlarım</a></li>
       <li><a href="https://github.com/kutayozturk/clean-code">Clean Code - Temiz Kod</a></li>
       <li><a href="https://github.com/kutayozturk/Hypercasual-Nedir">Hypercasual Nedir?</a></li>
