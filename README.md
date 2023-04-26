@@ -42,10 +42,21 @@ You can click the Preview link to take a look at your changes.
       <li><a href="https://github.com/kutayozturk/csharp-temel-egitim">C# Eğitimi</a></li>
 </ul>
 
-> Diğer Eğitimler
+
+> Web Geliştirme
 
 <ul>
-      <li><a href="https://github.com/kutayozturk/html-notlarim">HTML Notlarım</a></li>      
+      <li><a href="https://github.com/kutayozturk/html-notlarim">HTML Notlarım</a></li> 
+      <li><a href="https://github.com/kutayozturk/JavaScript-Dersleri">JavaScript Notlarım</a></li> 
+   
+</ul>
+
+
+> Diğer Eğitimler
+  
+
+<ul>
+        
       <li><a href="https://github.com/kutayozturk/Python-Notlarim">Python Notlarım</a></li>
       <li><a href="https://github.com/kutayozturk/clean-code">Clean Code - Temiz Kod</a></li>
       <li><a href="https://github.com/kutayozturk/Hypercasual-Nedir">Hypercasual Nedir?</a></li>
