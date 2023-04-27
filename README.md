@@ -59,6 +59,8 @@ You can click the Preview link to take a look at your changes.
       <li><a href="https://github.com/kutayozturk/clean-code">Clean Code - Temiz Kod</a></li>
       <li><a href="https://github.com/kutayozturk/Hypercasual-Nedir">Hypercasual Nedir?</a></li>
       <li><a href="https://github.com/kutayozturk/kali-linux-egitimi">Linux Eğitimi</a></li>
+      <li><a href="https://github.com/kutayozturk/active-directory">Windows Active Directory</a></li>
+      
 </ul>
 
 ### Hazır Kodlar
