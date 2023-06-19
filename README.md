@@ -43,23 +43,14 @@ You can click the Preview link to take a look at your changes.
 </ul>
 
 
-> Web Geliştirme
-
-<ul>
-      <li><a href="https://github.com/kutayozturk/html-notlarim">HTML Notlarım</a></li> 
-      <li><a href="https://github.com/kutayozturk/JavaScript-Dersleri">JavaScript Notlarım</a></li> 
-   
-</ul>
-
-
 > Diğer Eğitimler
 
 <ul>   
-      <li><a href="https://github.com/kutayozturk/Python-Notlarim">Python Notlarım</a></li>
+      
       <li><a href="https://github.com/kutayozturk/clean-code">Clean Code - Temiz Kod</a></li>
       <li><a href="https://github.com/kutayozturk/Hypercasual-Nedir">Hypercasual Nedir?</a></li>
       <li><a href="https://github.com/kutayozturk/kali-linux-egitimi">Linux Eğitimi</a></li>
-      <li><a href="https://github.com/kutayozturk/active-directory">Windows Active Directory</a></li>
+      
       
 </ul>
 
@@ -72,7 +63,7 @@ You can click the Preview link to take a look at your changes.
       <li><a href="https://github.com/kutayozturk/cpp-Hazir-Fonksiyonlar">C++ Hazır Fonksiyonlar</a></li>    
       <li><a href="https://github.com/kutayozturk/cpp-whitespace">C++ WhiteSpace | Etkisiz Boşluk Karakterleri</a></li>    
       <li><a href="https://github.com/kutayozturk/Cpp-Basit-Konsol-Oyunlari">C++ Basit Konsol Oyunları</a></li>
-      <li><a href="https://github.com/kutayozturk/2048-console-game/">C# Basit Konsol Oyunları</a></li>
+      <li><a href="https://github.com/kutayozturk/csharp-Basit-Konsol-Oyunlari/">C# Basit Konsol Oyunları</a></li>
       
       
       
@@ -90,6 +81,29 @@ You can click the Preview link to take a look at your changes.
       <li><a href="https://github.com/kutayozturk/windows-cmd-cheat-sheet">Windows CMD Komutları</a></li> 
             
 </ul>
+
+
+
+
+
+
+### Kişisel notlar
+
+> Bu kısımda farklı konular hakkında tuttuğum notlar mevcuttur.
+
+<ul>
+      <li><a href="https://github.com/kutayozturk/cpp-kisisel-notlarim">C++ Kişisel Notlar</a></li> 
+      <li><a href="https://github.com/kutayozturk/Python-Notlarim">Python Notlarım</a></li>
+      <li><a href="https://github.com/kutayozturk/active-directory">Windows Active Directory</a></li>
+      <li><a href="https://github.com/kutayozturk/html-notlarim">HTML Notlarım</a></li> 
+      <li><a href="https://github.com/kutayozturk/JavaScript-Dersleri">JavaScript Notlarım</a></li> 
+            
+</ul>
+
+
+
+
+
 
 ### Öneriler
 
