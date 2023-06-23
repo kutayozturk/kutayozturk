@@ -40,7 +40,7 @@ You can click the Preview link to take a look at your changes.
       <li><a href="https://github.com/kutayozturk/csharp-temel-egitim">C# Eğitimi</a></li>
 </ul>
 
-> Siber Güvenlik (Syber Securty)
+> Siber Güvenlik (Cyber Securty)
 
 <ul>
       <li><a href="https://github.com/kutayozturk/siber-guvenlik-egitimi">Siber Güvenlik Eğitimi</a></li>
