@@ -32,14 +32,18 @@ You can click the Preview link to take a look at your changes.
       <li><a href="https://github.com/kutayozturk/Cpp-OOP-Temelleri">C++ OOP Temelleri</a></li> 
       <li><a href="https://github.com/kutayozturk/cpp-opp-egitimi">C++ Proje ile 0'dan OOP Eğitimi</a></li> 
       <li><a href="https://github.com/kutayozturk/cpp-den-C-diline-gecis">C++'dan C'ye Geçiş</a></li>
-     
-      
 </ul>
 
 > C# Eğitimi
 
 <ul>
       <li><a href="https://github.com/kutayozturk/csharp-temel-egitim">C# Eğitimi</a></li>
+</ul>
+
+> Siber Güvenlik (Syber Securty)
+
+<ul>
+      <li><a href="https://github.com/kutayozturk/siber-guvenlik-egitimi">Siber Güvenlik Eğitimi</a></li>
 </ul>
 
 > Diğer Eğitimler
