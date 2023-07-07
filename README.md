@@ -64,10 +64,6 @@ You can click the Preview link to take a look at your changes.
       <li><a href="https://github.com/kutayozturk/cpp-whitespace">C++ WhiteSpace | Etkisiz Boşluk Karakterleri</a></li>    
       <li><a href="https://github.com/kutayozturk/Cpp-Basit-Konsol-Oyunlari">C++ Basit Konsol Oyunları</a></li>
       <li><a href="https://github.com/kutayozturk/csharp-Basit-Konsol-Oyunlari/">C# Basit Konsol Oyunları</a></li>
-      
-      
-      
-      
 </ul>
 
 ### Püf Noktalar / İpuçları
@@ -78,14 +74,10 @@ You can click the Preview link to take a look at your changes.
       <li><a href="https://github.com/kutayozturk/cpp-puf-noktalari">C++ Püf Noktaları</a></li> 
       <li><a href="https://github.com/kutayozturk/Csharp-puf-noktalari">C# Püf Noktaları</a></li> 
       <li><a href="https://github.com/kutayozturk/unity-puf-noktalari">Unity Püf Noktaları</a></li>
-      <li><a href="https://github.com/kutayozturk/windows-cmd-cheat-sheet">Windows CMD Komutları</a></li> 
-            
+      <li><a href="https://github.com/kutayozturk/windows-cmd-cheat-sheet">Windows CMD Komutları</a></li>   
+      <li><a href="https://github.com/kutayozturk/mavi-ekran-analiz/">Mavi Ekran Hata Analizi</a></li>   
+      
 </ul>
-
-
-
-
-
 
 ### Kişisel notlar
 
@@ -96,14 +88,8 @@ You can click the Preview link to take a look at your changes.
       <li><a href="https://github.com/kutayozturk/Python-Notlarim">Python Notlarım</a></li>
       <li><a href="https://github.com/kutayozturk/active-directory">Windows Active Directory</a></li>
       <li><a href="https://github.com/kutayozturk/html-notlarim">HTML Notlarım</a></li> 
-      <li><a href="https://github.com/kutayozturk/JavaScript-Dersleri">JavaScript Notlarım</a></li> 
-            
+      <li><a href="https://github.com/kutayozturk/JavaScript-Dersleri">JavaScript Notlarım</a></li>          
 </ul>
-
-
-
-
-
 
 ### Öneriler
 
@@ -117,5 +103,4 @@ You can click the Preview link to take a look at your changes.
       <li><a href="https://www.30secondsofcode.org/">30 Second of Code</a></li>
       <li><a href="https://github.com/kutayozturk/Visual-Studio-Code-Eklentileri">Visula Studio Code Eklentileri</a></li>
       <li><a href="https://github.com/kutayozturk/Visual-Studio-Eklentileri">Visula Studio 2022 Eklentileri</a></li>
-
 </ul>
