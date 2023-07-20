@@ -104,3 +104,13 @@ You can click the Preview link to take a look at your changes.
       <li><a href="https://github.com/kutayozturk/Visual-Studio-Code-Eklentileri">Visula Studio Code Eklentileri</a></li>
       <li><a href="https://github.com/kutayozturk/Visual-Studio-Eklentileri">Visula Studio 2022 Eklentileri</a></li>
 </ul>
+
+# Teknik Servis
+
+> Bu kısımda bilgisayar tamir ve onarım konuları üzerine hazırlanmış içerikleri bulabilirsiniz.
+
+<ul>      
+      <li><a https://github.com/kutayozturk/bilgisayar-guc-kaynagini-test-edelim/"> Güç Kaynağını (PSU) Test Edelim</a></li>
+ 
+</ul>
+
