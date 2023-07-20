@@ -110,7 +110,7 @@ You can click the Preview link to take a look at your changes.
 > Bu kısımda bilgisayar tamir ve onarım konuları üzerine hazırlanmış içerikleri bulabilirsiniz.
 
 <ul>      
-      <li><a https://github.com/kutayozturk/bilgisayar-guc-kaynagini-test-edelim/"> Güç Kaynağını (PSU) Test Edelim</a></li>
+      <li><a href="https://github.com/kutayozturk/bilgisayar-guc-kaynagini-test-edelim/">Güç Kaynağını (PSU) Test Edelim</a></li>
  
 </ul>
 
