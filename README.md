@@ -33,9 +33,9 @@ You can click the Preview link to take a look at your changes.
 --->
 ---
 
-### Eğitim İçerikleri
+### Eğitim İçerikleri 🎓
 
-> C/C++ Eğitimi
+> C/C++ Eğitimi :small_red_triangle_down:
 
 <ul>
       <li><a href="https://github.com/kutayozturk/cpp-temel-egitim">C++ Temel Eğitimi</a></li>
@@ -45,19 +45,19 @@ You can click the Preview link to take a look at your changes.
       <li><a href="https://github.com/kutayozturk/cpp-calisma-sorulari">:C++ Çalışma Soruları:zap:</a></li>
 </ul>
 
-> C# Eğitimi
+> C# Eğitimi :small_red_triangle_down:
 
 <ul>
       <li><a href="https://github.com/kutayozturk/csharp-temel-egitim">C# Eğitimi</a></li>
 </ul>
 
-> Siber Güvenlik (Cyber Securty)
+> Siber Güvenlik (Cyber Securty) :small_red_triangle_down:
 
 <ul>
       <li><a href="https://github.com/kutayozturk/siber-guvenlik-egitimi">Siber Güvenlik Eğitimi</a></li>
 </ul>
 
-> Diğer Eğitimler
+> Diğer Eğitimler :small_red_triangle_down:
 
 <ul>   
       <li><a href="https://github.com/kutayozturk/clean-code">Clean Code - Temiz Kod</a></li>
