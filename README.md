@@ -65,7 +65,7 @@ You can click the Preview link to take a look at your changes.
       <li><a href="https://github.com/kutayozturk/kali-linux-egitimi">Linux Eğitimi</a></li>
 </ul>
 
-### Hazır Kodlar
+### Hazır Kodlar 🚕
 
 > Bu kısımda birçok farklı dilde yazılmış hazır kodlara ve örnek çalışmalara yer verilmiştir.
 
@@ -77,7 +77,7 @@ You can click the Preview link to take a look at your changes.
       <li><a href="https://github.com/kutayozturk/csharp-Basit-Konsol-Oyunlari/">C# Basit Konsol Oyunları</a></li>
 </ul>
 
-### Püf Noktalar / İpuçları
+### Püf Noktalar / İpuçları :gem:
 
 > Bu kısımda az bilinen bilgilere ve püf noktalara yer verilmiştir.
 
@@ -90,7 +90,7 @@ You can click the Preview link to take a look at your changes.
       
 </ul>
 
-### Kişisel notlar
+### Kişisel notlar 📙
 
 > Bu kısımda farklı konular hakkında tuttuğum notlar mevcuttur.
 
@@ -102,7 +102,7 @@ You can click the Preview link to take a look at your changes.
       <li><a href="https://github.com/kutayozturk/JavaScript-Dersleri">JavaScript Notlarım</a></li>          
 </ul>
 
-### Öneriler
+### Öneriler 👍
 
 > Bu kısımda birbinden farklı alanlarda kullanışlı web siteleri ve uygulamaları bulabilirsiniz.
 
