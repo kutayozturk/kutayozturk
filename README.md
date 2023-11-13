@@ -49,6 +49,7 @@ You can click the Preview link to take a look at your changes.
 
 <ul>
       <li><a href="https://github.com/kutayozturk/csharp-temel-egitim">C# Eğitimi</a></li>
+      <li><a href="https://github.com/kutayozturk/csharp-calisma-sorulari">C# Çalışma Soruları</a></li>
 </ul>
 
 > Siber Güvenlik (Cyber Securty) :small_red_triangle_down:
