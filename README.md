@@ -45,15 +45,21 @@ You can click the Preview link to take a look at your changes.
       <li><a href="https://github.com/kutayozturk/cpp-calisma-sorulari">C++ Çalışma Soruları:zap:</a></li>
 </ul>
 
-> C# Eğitimi :small_red_triangle_down:
+> C# Eğitimi :
 
 <ul>
       <li><a href="https://github.com/kutayozturk/csharp-temel-egitim">C# Eğitimi</a></li>
       <li><a href="https://github.com/kutayozturk/csharp-calisma-sorulari">C# Çalışma Soruları</a></li>
 </ul>
 
-> Siber Güvenlik (Cyber Securty) :small_red_triangle_down:
+> Wordpress Eğitimi 🌐
 
+<ul>
+      <li><a href="https://github.com/kutayozturk/wordpress-egitimi">Wordpress Eğitimi</a></li>
+</ul>
+
+> Siber Güvenlik (Cyber Securty) 🔒
+> 
 <ul>
       <li><a href="https://github.com/kutayozturk/siber-guvenlik-egitimi">Siber Güvenlik Eğitimi</a></li>
 </ul>
