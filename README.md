@@ -1,37 +1,97 @@
-- 👋 Merhaba, ben @kutayozturk
-- 👀 Programlama Dilleri Eğitimleri veriyorum ..
+
+
+<h1 align="center">Merhaba 👋, ben Kutay ÖZTÜRK</h1>
+
+<p align="center"> 
+ <img src="https://komarev.com/ghpvc/?username=kutayozturk&label=Profile%20views&color=0e75b6&style=flat" alt="Kutay ÖZTÜRK" /> 
+
+</p>
+
+<div align="center">
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="50" height="50" />
+<img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="50" height="50" />
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
+
+<img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="icon" width="50" height="50" />
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
+<img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" /></div>
+<br>
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<br><br>
+
+- 👀 Programlama Dilleri Eğitimleri veriyorum
+  
+- 🔭 Araştırmaya ve öğrenmeye devam ediyorum 
+
 - 🌱 Burada bir çok kaynak ve öğretici döküman ile karşılacaksın ...
+
 - 💞️ O zaman hadi başlayalım ...
+
 - 📧 Bir sorun mu var? [Bana ulaş...](mailto:kutayozturk@mail.com)
+
 - 🌐 Web site: https://www.kutayozturk.com
-- ▶️ Youtube: https://www.youtube.com/@kutayozturkdsc ❗Abone olmayı unutmayın
 
-## 🌐 Sosyal Hesaplar:
-|🌐 [Web site](https://www.kutayozturk.com)| 📧 [Contact](mailto:destek.pckenti@gmail.com)|
-|-|-|
+- ▶️ Youtube: https://www.youtube.com/@kutayozturkdsc
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kutayozturk06) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kutay-öztürk-6a6031244) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@kutayozturkdsc) 
+- ❗Abone olmayı unutmayın
 
----
+<br>
+<h3 align="left">Sosyal Medya:</h3>
+<p align="left">
+<a href="https://linkedin.com/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kutay ÖZTÜRK" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Kutay ÖZTÜRK" height="30" width="40" /></a>
+<a href="https://instagram.com/kutayozturk06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kutayozturk06" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@kutayozturkdsc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@kutayozturkdsc" height="30" width="40" /></a>
+</p>
+<br>
 
-## 💻 Teknik Bilgi:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-      
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kutayozturk&layout=compact)](https://github.com/kutayozturk/github-readme-stats)
-<!---
-kutayozturk/kutayozturk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+<br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kutayozturk)](https://github.com/kutayozturk/github-readme-stats)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,c,cpp,cs,python,js,ts,bash" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cmake,gtk,angular,wordpress,md,linux,raspberrypi" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pr,ai,ae,vscode,stackoverflow,godot" />
+  </a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kutayozturk&repo=github-readme-stats)](https://github.com/kutayozturk/github-readme-stats)
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<br>
+<h3 align="left">GitHub İstatistik:</h3>
+<div align="center">
+ 
+![Kutay's GitHub stats](https://github-readme-stats.vercel.app/api?username=kutayozturk\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kutayozturk&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kutayozturk&theme=midnight-purple)](https://git.io/streak-stats)
 
---->
----
+</div>
+
+<br><br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+![Kutay's Graph](https://github-readme-activity-graph.vercel.app/graph?username=kutayozturk&custom_title=Kutay%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<br><br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Merhaba demek istersen seninle tanışmaktan mutluluk duyarım.</b></em>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ### Eğitim İçerikleri 🎓
 
