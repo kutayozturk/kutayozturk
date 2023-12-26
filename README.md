@@ -66,7 +66,7 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pr,ai,ae,vscode,stackoverflow,godot" />
+    <img src="https://skillicons.dev/icons?i=ps,pr,ai,ae,vscode,stackoverflow,godot" />
   </a>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
