@@ -49,7 +49,7 @@
 <a href="https://www.youtube.com/@kutayozturkdsc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@kutayozturkdsc" height="30" width="40" /></a>
 </p>
 <br>
-
+<br>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <br>
