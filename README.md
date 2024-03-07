@@ -109,6 +109,7 @@
 
 <ul>
       <li><a href="https://github.com/kutayozturk/csharp-temel-egitim">C# Eğitimi</a></li>
+      <li><a href="https://github.com/kutayozturk/csharp-oop">C# Eğitimi</a></li>
       <li><a href="https://github.com/kutayozturk/csharp-calisma-sorulari">C# Çalışma Soruları</a></li>
 </ul>
 
