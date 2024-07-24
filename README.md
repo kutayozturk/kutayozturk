@@ -116,6 +116,7 @@
 > Web Tasarım Eğitimi 🌐
 
 <ul>
+      <li><a href="https://github.com/kutayozturk/json-egitimi">JSON Eğitimi</a></li>
       <li><a href="https://github.com/kutayozturk/wordpress-egitimi">Wordpress Eğitimi</a></li>
 </ul>
 
