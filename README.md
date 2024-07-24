@@ -113,7 +113,7 @@
       <li><a href="https://github.com/kutayozturk/csharp-calisma-sorulari">C# Çalışma Soruları</a></li>
 </ul>
 
-> Wordpress Eğitimi 🌐
+> Web Tasarım Eğitimi 🌐
 
 <ul>
       <li><a href="https://github.com/kutayozturk/wordpress-egitimi">Wordpress Eğitimi</a></li>
