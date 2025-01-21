@@ -105,6 +105,12 @@
       <li><a href="https://github.com/kutayozturk/cpp-calisma-sorulari">C++ Çalışma Soruları:zap:</a></li>
 </ul>
 
+> İleri C Eğitimi
+
+<ul>
+      <li><a href="https://github.com/kutayozturk/ileri-c">Dinamik Bellek Yönetimi</a></li>
+</ul>
+
 > C# Eğitimi :
 
 <ul>
