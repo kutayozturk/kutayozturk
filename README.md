@@ -144,7 +144,7 @@
       <li><a href="https://github.com/kutayozturk/cpp-whitespace">C++ WhiteSpace | Etkisiz Boşluk Karakterleri</a></li>    
       <li><a href="https://github.com/kutayozturk/Cpp-Basit-Konsol-Oyunlari">C++ Basit Konsol Oyunları</a></li>
       <li><a href="https://github.com/kutayozturk/product-key">C++ Basit Projeler</a></li>
-/ul>
+</ul>
 
 ### Püf Noktalar / İpuçları :gem:
 
